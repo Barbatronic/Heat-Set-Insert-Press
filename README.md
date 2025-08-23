@@ -1,6 +1,6 @@
 # Heat-Set-Insert-Press
 
-Réalisée en live le 12/12/2021 sur twitch.tv/barbatroniclive
+V1 - Réalisée en live le 12/12/2021 sur twitch.tv/barbatroniclive
 
 BOM (Visserie non comprise):
 - 1x [Profil en aluminium 2040 - 300mm](https://fr.aliexpress.com/item/1005003023027840.html)
@@ -12,3 +12,7 @@ BOM (Visserie non comprise):
 
 ![](BarbaPressCAO.png)
 ![](BarbaPress.jpg)
+
+V2 - Réalisée en live le 23/08/2025 sur twitch.tv/barbatroniclive
+
+![](BarbaPressV2.jpg)
