@@ -15,4 +15,5 @@ BOM (Visserie non comprise):
 
 V2 - Réalisée en live le 23/08/2025 sur twitch.tv/barbatroniclive
 
-![](BarbaPressV2.jpg)
+![](BarbaPressV2.png)
+![](BarbaPressV2Photo.jpg)
